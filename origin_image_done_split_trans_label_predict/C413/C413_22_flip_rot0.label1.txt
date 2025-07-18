@@ -1,0 +1,7 @@
+The shape in the second image matches the "C413" type from the first image. Here are the edge labels for the shape:
+
+- Edge-1: 15
+- Edge-2: 5
+- Edge-3: 8
+- Edge-4: 5
+- Edge-5: 15

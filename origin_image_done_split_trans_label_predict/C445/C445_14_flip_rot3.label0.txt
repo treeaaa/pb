@@ -1,0 +1,9 @@
+The image shows a C-shaped profile with the following dimensions:
+
+- One side: 55
+- Adjacent side: 38
+- Middle section: 42
+- Adjacent side: 38
+- Other side: 55
+
+This forms a symmetrical C-shape.

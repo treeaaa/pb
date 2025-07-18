@@ -1,0 +1,9 @@
+The image shows a cross-section of a structural element with the following dimensions:
+
+- One side is 60 units.
+- Adjacent to it is a side of 37 units.
+- Next is a side of 52 units.
+- Then a shorter side of 37 units.
+- Finally, a side of 60 units.
+
+This forms a C-shaped profile.

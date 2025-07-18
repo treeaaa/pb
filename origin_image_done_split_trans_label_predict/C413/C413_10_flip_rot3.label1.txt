@@ -1,0 +1,7 @@
+The shape in the second image matches the type "C413" from the first image. The edges are labeled as follows:
+
+- Edge-1: Top (circle)
+- Edge-2: Right vertical
+- Edge-3: Middle horizontal
+- Edge-4: Left vertical
+- Edge-5: Bottom horizontal

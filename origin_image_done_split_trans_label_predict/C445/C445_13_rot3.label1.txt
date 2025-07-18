@@ -1,0 +1,7 @@
+The shape in the second image is similar to the "C445" shape from the first image. It has the following edge lengths:
+
+- Edge-1: 78
+- Edge-2: 52
+- Edge-3: 2
+- Edge-4: 52
+- Edge-5: 78

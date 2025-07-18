@@ -1,0 +1,7 @@
+The image shows a C-shaped path with the following edge lengths:
+
+- Bottom edge: 52
+- Left edge: 25
+- Top edge: 36
+- Right edge: 25
+- Bottom edge: 98

@@ -1,0 +1,9 @@
+The second image shows a profile similar to the "C505" type from the first image. The dimensions are as follows:
+
+- Edge-1: 29
+- Edge-2: 80
+- Edge-3: 99
+- Edge-4: 80
+- Edge-5: 99
+
+This matches the structure of the "C505" profile.

@@ -1,0 +1,7 @@
+The second image shows a C505 profile. The dimensions are as follows:
+
+- Edge-1: 23
+- Edge-2: 30
+- Edge-3: 80
+- Edge-4: 30
+- Edge-5: 80

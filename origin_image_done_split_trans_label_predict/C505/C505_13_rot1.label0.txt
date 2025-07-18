@@ -1,0 +1,7 @@
+The image shows a C-shaped profile with the following dimensions:
+
+- One side is 30 units.
+- The adjacent side is 80 units.
+- The next side is 23 units.
+- The next side is 80 units.
+- The final side is 30 units.

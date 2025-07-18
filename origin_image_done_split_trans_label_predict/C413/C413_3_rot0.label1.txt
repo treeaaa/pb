@@ -1,0 +1,7 @@
+The second image shows a C413 profile. The edge measurements are as follows:
+
+- Edge-1: 12
+- Edge-2: 36
+- Edge-3: 5
+- Edge-4: 36
+- Edge-5: 12

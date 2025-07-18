@@ -1,0 +1,1 @@
+{"type": "L-shape", "edge-1": "2", "edge-2": "2", "edge-3": "3", "edge-4": "2", "edge-5": "4"}

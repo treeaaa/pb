@@ -1,0 +1,1 @@
+{"type": "C413", "edge-1": "circle", "edge-2": "vertical", "edge-3": "horizontal", "edge-4": "vertical", "edge-5": "horizontal"}

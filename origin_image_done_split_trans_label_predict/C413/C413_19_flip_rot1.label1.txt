@@ -1,0 +1,7 @@
+The shape in the second image matches the type "C413" from the first image. Here are the edge details:
+
+- **Edge-1:** 55
+- **Edge-2:** 35
+- **Edge-3:** 60
+- **Edge-4:** 35
+- **Edge-5:** 55

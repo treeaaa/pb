@@ -1,0 +1,5 @@
+The second image shows a shape similar to "C106" from the first image. The dimensions are:
+
+- Edge-1: 85
+- Edge-2: 38
+- Edge-3: 85

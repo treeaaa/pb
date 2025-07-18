@@ -1,0 +1,7 @@
+The shape in the second image is similar to the "C445" shape from the first image. It has the following edge labels:
+
+- Edge-1: 33
+- Edge-2: 12
+- Edge-3: 33
+- Edge-4: 23
+- Edge-5: 33

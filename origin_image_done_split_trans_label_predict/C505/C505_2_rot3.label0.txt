@@ -1,0 +1,7 @@
+The image shows a C-shaped profile with the following dimensions:
+
+- One side is 80 units.
+- The opposite side is 45 units.
+- The connecting edge is 3 units.
+
+This forms a C-shaped cross-section.

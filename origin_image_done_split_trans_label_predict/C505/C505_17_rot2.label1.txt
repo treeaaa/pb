@@ -1,0 +1,9 @@
+The second image shows a shape similar to the "C505" profile from the first image. Here are the details for the edges:
+
+- **Edge-1**: 18
+- **Edge-2**: 62
+- **Edge-3**: 95
+- **Edge-4**: 62
+- **Edge-5**: 95
+
+This matches the structure of the "C505" profile.

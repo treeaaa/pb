@@ -1,0 +1,1 @@
+{"type": "C106", "edge-1": "Zigzag", "edge-2": "Straight", "edge-3": "Zigzag", "edge-4": "Straight"}

@@ -1,0 +1,9 @@
+The second image shows a shape similar to the "C413" type from the first image. Here's the mapping of the edges based on the first image:
+
+- **Edge-1**: 8
+- **Edge-2**: 7
+- **Edge-3**: 1
+- **Edge-4**: 7
+- **Edge-5**: 25
+
+This matches the structure of the "C413" shape.

@@ -1,0 +1,7 @@
+The image shows a C445 shape with the following edges:
+
+- Edge-1: C4
+- Edge-2: C3
+- Edge-3: C4
+- Edge-4: C3
+- Edge-5: C4

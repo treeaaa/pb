@@ -1,0 +1,5 @@
+The second image shows a C106 shape with the following dimensions:
+
+- Edge-1: 58
+- Edge-2: 55
+- Edge-3: 58

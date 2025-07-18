@@ -1,0 +1,7 @@
+The second image shows a shape similar to the "C413" type from the first image. Here are the edge measurements for the shape in the second image:
+
+- Edge-1: 75
+- Edge-2: 28
+- Edge-3: 6
+- Edge-4: 28
+- Edge-5: 75

@@ -1,0 +1,5 @@
+The shape in the second image matches the "C106" type from the first image. It has:
+
+- Edge-1: 86
+- Edge-2: 79
+- Edge-3: 86

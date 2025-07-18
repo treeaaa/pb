@@ -1,0 +1,1 @@
+{"type": "C105", "edge-1": "m", "edge-2": "spiral"}

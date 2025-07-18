@@ -1,0 +1,9 @@
+The second image shows a shape similar to the "C413" profile from the first image. Here are the details:
+
+- **Edge-1**: 80
+- **Edge-2**: 25
+- **Edge-3**: 75
+- **Edge-4**: 25
+- **Edge-5**: 80
+
+This matches the structure of the "C413" profile.

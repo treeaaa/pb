@@ -1,0 +1,9 @@
+The image shows a C-shaped profile with the following dimensions:
+
+- One side labeled as 22
+- A second side labeled as 45
+- A middle section labeled as 38
+- Another side labeled as 45
+- The final side labeled as 22
+
+This forms a symmetrical C-shape.

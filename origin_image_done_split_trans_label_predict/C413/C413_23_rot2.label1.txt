@@ -1,0 +1,9 @@
+The second image shows a shape similar to the "C413" type from the first image. It has five edges:
+
+- Edge-1: Circular
+- Edge-2: Horizontal
+- Edge-3: Vertical
+- Edge-4: Horizontal
+- Edge-5: Horizontal
+
+If you need more information or a specific description, let me know!

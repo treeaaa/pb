@@ -1,0 +1,1 @@
+{"type": "C106", "edge-1": "scissors", "edge-2": "5", "edge-3": "scissors"}

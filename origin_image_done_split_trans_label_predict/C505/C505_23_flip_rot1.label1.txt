@@ -1,0 +1,7 @@
+The second image shows a shape similar to the "C505" profile from the first image. The dimensions are:
+
+- Edge-1: 11
+- Edge-2: 22
+- Edge-3: 38
+- Edge-4: 22
+- Edge-5: 38

@@ -1,0 +1,9 @@
+The second image shows a shape similar to the "C603" type from the first image. Here are the edge lengths for the second image:
+
+- **Edge-1:** 16
+- **Edge-2:** 58
+- **Edge-3:** 23
+- **Edge-4:** 93
+- **Edge-5:** 88
+
+If you need more information, feel free to ask!

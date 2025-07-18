@@ -1,0 +1,7 @@
+The image shows a C-shaped metal profile with the following dimensions:
+
+- One side is 18 units.
+- The next side is 5 units.
+- The middle section is 25 units.
+- The next side is 5 units.
+- The final side is 18 units.

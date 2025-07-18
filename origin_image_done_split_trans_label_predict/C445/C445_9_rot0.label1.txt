@@ -1,0 +1,7 @@
+The second image shows a C445 shape with the following edge measurements:
+
+- Edge-1: 50
+- Edge-2: 35
+- Edge-3: 7
+- Edge-4: 35
+- Edge-5: 36

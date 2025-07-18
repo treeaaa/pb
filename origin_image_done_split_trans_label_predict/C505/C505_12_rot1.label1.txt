@@ -1,0 +1,7 @@
+The second image shows a C505 profile. Here are the edge details based on the diagram:
+
+- **Edge-1**: 6
+- **Edge-2**: 12
+- **Edge-3**: 5
+- **Edge-4**: 12
+- **Edge-5**: 5

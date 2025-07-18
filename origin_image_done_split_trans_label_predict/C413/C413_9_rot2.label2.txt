@@ -1,0 +1,3 @@
+```json
+{"type": "C413", "edge-1": "b1", "edge-2": "t", "edge-3": "h", "edge-4": "t", "edge-5": "b2"}
+```

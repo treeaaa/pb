@@ -1,0 +1,1 @@
+The second image shows a shape similar to "C105" from the first image. It has two edges: "edge-1" is labeled "36" and "edge-2" is labeled "10".

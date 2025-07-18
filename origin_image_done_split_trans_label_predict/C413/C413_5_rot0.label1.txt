@@ -1,0 +1,9 @@
+The second image shows a sketch of a C445 profile. The dimensions are labeled as follows:
+
+- Edge-1: 5
+- Edge-2: 28
+- Edge-3: 1
+- Edge-4: 28
+- Edge-5: 5
+
+This matches the C445 profile from the first image.

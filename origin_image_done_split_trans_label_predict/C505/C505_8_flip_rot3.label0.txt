@@ -1,0 +1,9 @@
+The image shows a C-shaped profile with the following dimensions:
+
+- One side labeled as 35
+- Adjacent side labeled as 45
+- Opposite side labeled as 35
+- Adjacent side labeled as 45
+- One side labeled as 03
+
+This represents a C-shaped cross-section.

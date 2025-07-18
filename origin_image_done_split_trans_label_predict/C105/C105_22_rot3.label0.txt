@@ -1,0 +1,1 @@
+{"type": "C413", "edge-1": "straight", "edge-2": "straight", "edge-3": "curved", "edge-4": "curved", "edge-5": "curved"}

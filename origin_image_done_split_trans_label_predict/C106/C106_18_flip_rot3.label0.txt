@@ -1,0 +1,1 @@
+{"type": "C105", "edge-1": "straight", "edge-2": "curved", "edge-3": "straight", "edge-4": "curved"}

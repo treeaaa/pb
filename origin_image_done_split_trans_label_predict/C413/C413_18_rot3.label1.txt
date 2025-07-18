@@ -1,0 +1,9 @@
+The second image shows a shape similar to the "C413" type from the first image. It has the following edges:
+
+- Edge-1: 2
+- Edge-2: 10
+- Edge-3: 3
+- Edge-4: 10
+- Edge-5: 2
+
+This matches the pattern of the "C413" shape.

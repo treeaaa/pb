@@ -1,0 +1,5 @@
+The shape in the second image matches the "C106" shape from the first image. It has three edges:
+
+- Edge-1: 83
+- Edge-2: 32
+- Edge-3: 83

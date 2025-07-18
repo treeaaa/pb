@@ -1,0 +1,7 @@
+The image shows a C-shaped structural profile with the following dimensions:
+
+- One side is 60 units.
+- The opposite side is 42 units.
+- The base is 32 units.
+- The shorter edge is 42 units.
+- The open edge is 32 units.

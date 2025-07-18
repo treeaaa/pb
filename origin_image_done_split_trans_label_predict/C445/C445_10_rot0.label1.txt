@@ -1,0 +1,7 @@
+The shape in the second image is a C445 profile. Here are the edge measurements:
+
+- Edge-1: 1
+- Edge-2: 56
+- Edge-3: 10
+- Edge-4: 39
+- Edge-5: 38

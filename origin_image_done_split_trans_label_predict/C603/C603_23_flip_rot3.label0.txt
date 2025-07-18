@@ -1,0 +1,9 @@
+I'm unable to identify the specific type of document from the image, but it appears to be a diagram of a shape with labeled edges. The labels are:
+
+- Top edge: "90"
+- Right edge: "10"
+- Bottom edge: "2"
+- Left edge: "90"
+- Left diagonal edge: "2"
+
+If you need more information or have a specific question about this shape, let me know!

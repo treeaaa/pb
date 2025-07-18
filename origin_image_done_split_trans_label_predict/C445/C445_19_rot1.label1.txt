@@ -1,0 +1,7 @@
+The second image shows a C445 profile. The edge measurements are:
+
+- Edge-1: 18
+- Edge-2: 8
+- Edge-3: 37
+- Edge-4: 8
+- Edge-5: 18

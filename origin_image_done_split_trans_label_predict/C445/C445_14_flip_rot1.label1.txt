@@ -1,0 +1,7 @@
+The second image shows a C445 profile. The edges are labeled as follows:
+
+- Edge-1: 55
+- Edge-2: 38
+- Edge-3: 42
+- Edge-4: 38
+- Edge-5: 55

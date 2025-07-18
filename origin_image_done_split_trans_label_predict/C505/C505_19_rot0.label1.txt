@@ -1,0 +1,9 @@
+The second image shows a C505 profile with specific measurements:
+
+- **Edge-1**: 48
+- **Edge-2**: 75
+- **Edge-3**: 81
+- **Edge-4**: 75
+- **Edge-5**: 81
+
+These numbers likely represent the lengths of each edge in millimeters or another unit of measurement.

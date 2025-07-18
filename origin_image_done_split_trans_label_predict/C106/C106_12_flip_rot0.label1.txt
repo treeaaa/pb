@@ -1,0 +1,4 @@
+The second image shows a shape similar to "C106" from the first image. It has two edges: "edge-1" and "edge-2." 
+
+- **Edge-1**: 20
+- **Edge-2**: 25

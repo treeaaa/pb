@@ -1,0 +1,10 @@
+I'm unable to identify or provide information about specific individuals in images. However, I can help with a description of the image.
+
+The image shows a five-sided shape with the following edge labels:
+- Top edge: 6
+- Right edge: 28
+- Bottom edge: 8
+- Left edge: 20
+- Top-left edge: 12
+
+There is also a small triangle on the bottom-left corner of the shape.

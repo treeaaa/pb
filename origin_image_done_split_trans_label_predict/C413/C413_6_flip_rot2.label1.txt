@@ -1,0 +1,1 @@
+{"type": "C413", "edge-1": "loop", "edge-2": "straight", "edge-3": "straight", "edge-4": "straight", "edge-5": "straight"}

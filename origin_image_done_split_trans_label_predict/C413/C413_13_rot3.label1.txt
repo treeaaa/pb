@@ -1,0 +1,7 @@
+The second image shows a C413 profile. Here are the edge details:
+
+- Edge-1: 1
+- Edge-2: 98
+- Edge-3: 14
+- Edge-4: 98
+- Edge-5: 1

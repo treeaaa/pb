@@ -1,0 +1,1 @@
+{"type": "C505", "edge-1": "r", "edge-2": "p", "edge-3": "p", "edge-4": "r", "edge-5": "C505"}

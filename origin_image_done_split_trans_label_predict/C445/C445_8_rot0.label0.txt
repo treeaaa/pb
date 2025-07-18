@@ -1,0 +1,5 @@
+This is a C-shaped object with the following edge lengths:
+
+- Two edges are 57 units each.
+- Two edges are 95 units each.
+- The bottom edge is 68 units.
