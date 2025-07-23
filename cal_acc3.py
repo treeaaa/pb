@@ -14,6 +14,7 @@ model = os.getenv("model3")
 client = OpenAI(api_key=api_key)
 label_suffix = ".label3.txt"
 output_path = "acc3.csv"
+outout_path_tex = "acc3.tex"
 
 # Function to encode the image
 def encode_image(image_path):
@@ -229,7 +230,7 @@ for key, metrics in correct_cal_dict.items():
     if not isinstance(metrics, dict):
         continue  # 排除像 'summary': 0 這樣的錯誤初始化情況
 
-    label = ', '.join(sorted(map(str, key))) if isinstance(key, frozenset) else key
+    label = '|'.join(sorted(map(str, key))) if isinstance(key, frozenset) else key
     total = metrics["total_count"]
     row = {
         "tag": label,
@@ -253,7 +254,7 @@ groups = ["train", "test"]
 special = ["summary"]
 
 def sort_key(tag):
-    parts = tag.split(", ")
+    parts = tag.split("|")
     if len(parts) == 5:
         return (0, tag)
     elif tag in hand_types:
@@ -273,4 +274,4 @@ def sort_key(tag):
 
 df = df.sort_values(by="tag", key=lambda x: x.map(sort_key)).reset_index(drop=True)
 df.to_csv(output_path, index=False)
-
+df.to_latex(outout_path_tex,index=False,escape=True,longtable=True,column_format=r">{\raggedright\arraybackslash}p{5cm}rrrrrr")
